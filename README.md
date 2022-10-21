@@ -6,4 +6,4 @@ On this website, you can make an appointment for a service to the hairdresser, l
 Also there are two interfaces for employees: 
   1) Manager - The person, who manage all processes(View who works today and etc.) 
   2) Hairdressers 
-For more info you should check documentation about technologies in file Documentation.pdf
+For more info you should check documentation about technologies in file Documentation.odt
